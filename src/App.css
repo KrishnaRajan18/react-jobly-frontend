@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.Nav {
+  margin-bottom: 20px;
+}
+
+.Nav a {
+  color: rgb(243, 240, 240);
+}
+
+.Nav a:hover {
+  color: rgb(204, 238, 10);
+}
+
+form {
+  width: 90%;
+}
+
+form button {
+  margin-top: 20px;
+}
+
+label {
+  margin-top: 30px;
+  font-size: 1.1em;
+}
+
+.formheading {
+  padding-bottom: 25px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.CompanySearchForm {
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+
+.CompanySearchForm button {
+  margin-top: 0px;
+}
+
+.CompanyLogo {
+  width: 100px;
+  margin: 0px auto 20px auto;
+}
+
+.CompanyCard {
+  margin-bottom: 10px;
+}
+
+.CompanyCard a {
+  width: 70%;
+  margin: 5px auto;
+}
+
+.Company .CompanyCard {
+  border: none;
+
+  border-radius: 0%;
+}
+
+.Company .CompanyCard h3 {
+  font-size: 2.5em;
+}
+
+.JobCard {
+  padding-top: 10px;
+  margin: 10px 0px;
+}
+
+.JobCard button {
+  width: 50%;
+  margin: 5px auto 30px auto;
+}
+
+.JobCard a {
+  color: rgb(7, 23, 39);
+  margin: 10px 0px;
+}
+
+.JobCard a:hover {
+  text-decoration: none;
+  color: rgb(52, 85, 85);
+}
